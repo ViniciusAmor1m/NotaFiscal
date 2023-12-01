@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    text-align: center;
+}
+form {
+    max-width: 400px;
+    margin: 0 auto;
+}
+table {
+    width: 100%;
+    margin-top: 20px;
+    border-collapse: collapse;
+}
+th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+th {
+    background-color: #a5a5a5;
+    
+}
+button {
+    margin-top: 10px;
+}
+
+#total {
+    color: black;   
+}
+
+#servico {
+    margin-left: 68px;
+}
+
